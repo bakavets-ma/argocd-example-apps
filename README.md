@@ -1,7 +1,7 @@
 # ArgoCD Example Apps
 
 This repository contains example applications for demoing ArgoCD functionality. Feel free
-to register this repository to your ArgoCD instance, or fork this repo and push your fown commits
+to register this repository to your ArgoCD instance, or fork this repo and push your fown commitsf
 to explore ArgoCD and GitOps!
 
 | Status                                                                    | Application                                        | Description                                                                                                              |
